@@ -15,3 +15,16 @@ font-size:  15px;
 .bin-disabled{ 
     background-color: rgb(0, 0, 0);
 }
+#inputShowScore {
+    border:none;
+    border-bottom: olivedrab 1px;
+    }
+.bin-hover { 
+    background-color:rgb(216, 131, 131);
+}
+#inputShowScore:focus{
+outline:  none;
+border-bottom: orchid;
+
+}
+ 
